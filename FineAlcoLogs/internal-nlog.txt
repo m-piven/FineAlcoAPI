@@ -1,0 +1,57 @@
+2022-04-08 11:46:19.7353 Info Message Template Auto Format enabled
+2022-04-08 11:46:19.7444 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 11:46:19.7724 Info Adding target FileTarget(Name=allfile)
+2022-04-08 11:46:19.7867 Info Validating config: TargetNames=allfile, ConfigItems=20, FilePath=C:\Users\mpiven\source\repos\FIneAlcoAPI\FIneAlcoAPI\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-08 11:46:19.7867 Info Configuration initialized.
+2022-04-08 11:46:19.7867 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-04-08 11:52:13.7136 Info Message Template Auto Format enabled
+2022-04-08 11:52:13.7191 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 11:52:13.7458 Info Adding target FileTarget(Name=exeptions)
+2022-04-08 11:52:13.7458 Info Adding target FileTarget(Name=allfile)
+2022-04-08 11:52:13.7602 Info Validating config: TargetNames=allfile, exeptions, ConfigItems=40, FilePath=C:\Users\mpiven\source\repos\FIneAlcoAPI\FIneAlcoAPI\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-08 11:52:13.7729 Info Configuration initialized.
+2022-04-08 11:52:13.7729 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-04-08 12:14:35.2256 Info Message Template Auto Format enabled
+2022-04-08 12:14:35.2256 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 12:14:35.2545 Info Adding target FileTarget(Name=exeptions)
+2022-04-08 12:14:35.2545 Info Adding target FileTarget(Name=allfile)
+2022-04-08 12:14:35.2679 Info Validating config: TargetNames=allfile, exeptions, ConfigItems=40, FilePath=C:\Users\mpiven\source\repos\FIneAlcoAPI\FIneAlcoAPI\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-08 12:14:35.2679 Info Configuration initialized.
+2022-04-08 12:14:35.2679 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-04-08 13:19:23.3557 Info Message Template Auto Format enabled
+2022-04-08 13:19:23.3655 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 13:19:23.3997 Info Adding target FileTarget(Name=exeptions)
+2022-04-08 13:19:23.3997 Info Adding target FileTarget(Name=allfile)
+2022-04-08 13:19:23.4153 Info Validating config: TargetNames=allfile, exeptions, ConfigItems=40, FilePath=C:\Users\mpiven\source\repos\FIneAlcoAPI\FIneAlcoAPI\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-08 13:19:23.4256 Info Configuration initialized.
+2022-04-08 13:19:23.4256 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-04-08 13:20:39.4518 Info Message Template Auto Format enabled
+2022-04-08 13:20:39.4609 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 13:20:39.4941 Info Adding target FileTarget(Name=exeptions)
+2022-04-08 13:20:39.4941 Info Adding target FileTarget(Name=allfile)
+2022-04-08 13:20:39.5269 Info Validating config: TargetNames=allfile, exeptions, ConfigItems=40, FilePath=C:\Users\mpiven\source\repos\FIneAlcoAPI\FIneAlcoAPI\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-08 13:20:39.5380 Info Configuration initialized.
+2022-04-08 13:20:39.5380 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-04-08 15:15:52.7323 Info Message Template Auto Format enabled
+2022-04-08 15:15:52.7323 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:15:52.7614 Info Adding target FileTarget(Name=exeptions)
+2022-04-08 15:15:52.7614 Info Adding target FileTarget(Name=allfile)
+2022-04-08 15:15:52.7762 Info Validating config: TargetNames=allfile, exeptions, ConfigItems=40, FilePath=C:\Users\mpiven\source\repos\FIneAlcoAPI\FIneAlcoAPI\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-08 15:15:52.7891 Info Configuration initialized.
+2022-04-08 15:15:52.7891 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-04-08 15:21:25.2818 Info Message Template Auto Format enabled
+2022-04-08 15:21:25.2818 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:21:25.3056 Info Adding target FileTarget(Name=exeptions)
+2022-04-08 15:21:25.3056 Info Adding target FileTarget(Name=allfile)
+2022-04-08 15:21:25.3056 Info Validating config: TargetNames=allfile, exeptions, ConfigItems=40, FilePath=C:\Users\mpiven\source\repos\FIneAlcoAPI\FIneAlcoAPI\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-08 15:21:25.3250 Info Configuration initialized.
+2022-04-08 15:21:25.3250 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2022-04-08 15:21:25.9082 Info AppDomain Shutting down. Logger closing...
+2022-04-08 15:21:25.9147 Info Logger has been shut down.
+2022-04-08 15:21:32.2847 Info Message Template Auto Format enabled
+2022-04-08 15:21:32.2927 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:21:32.3230 Info Adding target FileTarget(Name=exeptions)
+2022-04-08 15:21:32.3230 Info Adding target FileTarget(Name=allfile)
+2022-04-08 15:21:32.3410 Info Validating config: TargetNames=allfile, exeptions, ConfigItems=40, FilePath=C:\Users\mpiven\source\repos\FIneAlcoAPI\FIneAlcoAPI\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-08 15:21:32.3532 Info Configuration initialized.
+2022-04-08 15:21:32.3532 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
